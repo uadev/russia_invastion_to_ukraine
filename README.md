@@ -2,7 +2,7 @@
 # 2022 Russian invasion of Ukraine
 ## Approximate loses
 
-Russian Armed Forces Soldiers - 9000 
+Russian Armed Forces Soldiers - 9000  
 Russian Armed Forces Flights - 30  
 Russian Armed Forces Hellycopters - 31  
 Russian Armed Forces Tanks - 217  
